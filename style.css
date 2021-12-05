@@ -1,0 +1,32 @@
+header{ 
+  font-family:sans-serif;
+}
+
+body{
+  border: 6px double;
+  border-color:black;
+  background-color:rgb(185, 252, 207);
+}
+
+
+h1{
+  margin:0;
+  letter-spacing: 2px;
+  text-transform: capitalize
+}
+
+.font-blue{
+  color: rgb(130, 225, 238)
+}
+
+.font-purple{
+  color: #f2c7e1;
+}
+
+.font-white{
+  color:white;
+}
+
+.small-font{
+  font-size:10px;
+}
